@@ -1,0 +1,25 @@
+==9219== Memcheck, a memory error detector
+==9219== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==9219== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==9219== Command: ../bin/backup.bin
+==9219== 
+==9219== 
+==9219== HEAP SUMMARY:
+==9219==     in use at exit: 0 bytes in 0 blocks
+==9219==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==9219== 
+==9219== All heap blocks were freed -- no leaks are possible
+==9219== 
+==9219== For lists of detected and suppressed errors, rerun with: -s
+==9219== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+
+ Please pass in the directory name 
+==9220== 
+==9220== HEAP SUMMARY:
+==9220==     in use at exit: 0 bytes in 0 blocks
+==9220==   total heap usage: 10 allocs, 10 frees, 8,915 bytes allocated
+==9220== 
+==9220== All heap blocks were freed -- no leaks are possible
+==9220== 
+==9220== For lists of detected and suppressed errors, rerun with: -s
+==9220== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
